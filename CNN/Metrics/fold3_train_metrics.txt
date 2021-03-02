@@ -1,0 +1,30 @@
+Scene classification metrics
+========================================
+  Scene labels                      : 15 
+  Evaluated units                   : 3507 
+
+  Class-wise average metrics (macro-average)
+  ======================================
+  Accuracy
+    Accuracy                        : 97.46 %
+
+  Class-wise metrics
+  ======================================
+    Scene label       | Ncorr       Nref      | Accuracy   
+    ----------------- | ---------   --------- | ---------  
+    beach             | 231         234       | 98.7%      
+    bus               | 205         234       | 87.6%      
+    cafe/restaurant   | 229         234       | 97.9%      
+    car               | 233         234       | 99.6%      
+    city_center       | 233         234       | 99.6%      
+    forest_path       | 233         234       | 99.6%      
+    grocery_store     | 227         234       | 97.0%      
+    home              | 228         231       | 98.7%      
+    library           | 231         234       | 98.7%      
+    metro_station     | 223         234       | 95.3%      
+    office            | 234         234       | 100.0%     
+    park              | 233         234       | 99.6%      
+    residential_area  | 223         234       | 95.3%      
+    train             | 222         234       | 94.9%      
+    tram              | 233         234       | 99.6%      
+
